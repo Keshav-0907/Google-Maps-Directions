@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bfd5c5b7-77d1-4ef5-8710-807816341345/deploy-status)](https://app.netlify.com/sites/fancy-gelato-ad6c23/deploys)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Google Maps Direction and Distance Finder
 
-## Available Scripts
+## Discription 
+This project utilizes the Google Maps API to find directions and distances between two places and allows the user to select the mode of travel. It provides a simple and user-friendly interface to input the source and destination locations, choose the preferred mode of transportation, and obtain the desired information.
 
-In the project directory, you can run:
+## Features 
 
-### `npm start`
+- `Directions`: Get step-by-step directions between two places.
+- `Distance Calculation`: Determine the distance between two places.
+- `Mode of Travel`: Select from various transportation modes such as driving, walking, cycling, or public transit.
+- `Interactive Map`: Display an interactive map with the route and markers for the source and destination.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Clone the repository from GitHub: `git clone https://github.com/your-username/google-maps-direction-distance-finder.git`
+- Navigate to the project directory: `cd google-maps-direction-distance-finder`
+- Install the required dependencies: `npm install`
 
-### `npm test`
+## ScreenShot 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="1431" alt="Screenshot 2023-05-16 at 10 29 09 AM" src="https://github.com/Keshav-0907/Google-Maps-Directions/assets/91189139/9c8729fd-57ce-49b1-9374-7c6ec3bb1d7e">
