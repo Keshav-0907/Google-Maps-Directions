@@ -48,7 +48,7 @@ const Main = () => {
   }
 
   const { isLoaded } = useJsApiLoader({
-    googleMapsApiKey: 'AIzaSyAYBivEevsC3sXYWfY6n9803tvASqB0TUI',
+    googleMapsApiKey: process.env.API_KEY,
     libraries: ['places'],
   });
 
